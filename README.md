@@ -2,6 +2,8 @@
 
 A privacy-first browser tool that sanitizes sensitive data from log files. Paste raw logs, get clean logs back — everything runs locally, nothing leaves your browser.
 
+Available at **[loorisr.github.io/log-sanitizer](https://loorisr.github.io/log-sanitizer/)**.
+
 ## Sanitization Rules
 
 | Rule | Detects |
